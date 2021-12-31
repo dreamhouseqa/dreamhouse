@@ -1,0 +1,17 @@
+:root {
+    --main-1-color: #CEB45D;
+    --main-2-color: #B7DB71;
+  }
+  
+
+.header-bg{
+    background-color: rgb(255, 255, 240);
+    border-bottom: var(--main-2-color) 2px solid;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.link-pinter{
+    cursor: pointer;
+}
