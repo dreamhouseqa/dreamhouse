@@ -14,3 +14,6 @@
 .link-pinter{
     cursor: pointer;
 }
+
+.hero{
+    border-bottom: var(--main-1-color) 2px solid;
